@@ -1,0 +1,104 @@
+{
+  "userName": "الکس",
+  "schedule": [
+    {
+      "id": "sc-1",
+      "time": "09:30 - 10:30",
+      "title": "سخنرانی فیزیک",
+      "detail": "مکانیک کوانتومی",
+      "color": "border-purple-500 text-purple-400"
+    },
+    {
+      "id": "sc-2",
+      "time": "11:00 - 12:00",
+      "title": "جلسه تیمی",
+      "detail": "هماهنگی پروژه",
+      "color": "border-cyan-500 text-cyan-400"
+    },
+    {
+      "id": "sc-3",
+      "time": "13:00 - 14:00",
+      "title": "استراحت ناهار",
+      "detail": "کمی استراحت کنید",
+      "color": "border-amber-500 text-amber-400"
+    },
+    {
+      "id": "sc-4",
+      "time": "15:00 - 17:00",
+      "title": "جلسه مطالعه مستقل",
+      "detail": "ساختمان داده و الگوریتم",
+      "color": "border-emerald-500 text-emerald-400"
+    }
+  ],
+  "studyDragLocked": true,
+  "deadlineDragLocked": true,
+  "tasks": [
+    {
+      "id": "t-1",
+      "title": "Finish Math Assignment",
+      "category": "Today",
+      "starred": true,
+      "completed": true
+    },
+    {
+      "id": "t-2",
+      "title": "Review Physics Notes",
+      "category": "Today",
+      "starred": false,
+      "completed": false
+    },
+    {
+      "id": "t-3",
+      "title": "Prepare for Chemistry Lab",
+      "category": "Tomorrow",
+      "starred": false,
+      "completed": false
+    },
+    {
+      "id": "t-4",
+      "title": "Read 20 pages of Book",
+      "category": "May 30",
+      "starred": false,
+      "completed": false
+    },
+    {
+      "id": "t-5",
+      "title": "Workout",
+      "category": "May 30",
+      "starred": false,
+      "completed": false
+    }
+  ],
+  "studyDuration": 25,
+  "shortBreakDuration": 5,
+  "longBreakDuration": 15,
+  "totalSessions": 4,
+  "longBreakEnabled": true,
+  "loopEnabled": true,
+  "alarmSound": "warm-chime",
+  "customSoundUrl": "",
+  "pomoHistory": [],
+  "deadlines": [
+    {
+      "id": "d-1",
+      "title": "Data Structures Assignment",
+      "due": "تحویل در 2 روز • May 30, 2024",
+      "priority": "High",
+      "color": "text-purple-400 bg-purple-500/10 border-purple-500/20"
+    },
+    {
+      "id": "d-2",
+      "title": "Chemistry Lab Report",
+      "due": "تحویل در 4 روز • June 1, 2024",
+      "priority": "Medium",
+      "color": "text-cyan-400 bg-cyan-500/10 border-cyan-500/20"
+    },
+    {
+      "id": "d-3",
+      "title": "Physics Quiz",
+      "due": "تحویل در 7 روز • June 4, 2024",
+      "priority": "Medium",
+      "color": "text-amber-400 bg-amber-500/10 border-amber-500/20"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "journalCurrency": "USD",
+  "initialBalance": 1000,
+  "trades": [],
+  "quickCalcBalance": "10000",
+  "riskPresets": [
+    {
+      "id": "1",
+      "name": "اطمینان بالا (۱.۵٪)",
+      "value": 1.5
+    },
+    {
+      "id": "2",
+      "name": "راه اندازی خوب (۱.۰٪)",
+      "value": 1
+    },
+    {
+      "id": "3",
+      "name": "ریسک متوسط (۰.۵٪)",
+      "value": 0.5
+    },
+    {
+      "id": "4",
+      "name": "ریسک بالا (۰.۲۵٪)",
+      "value": 0.25
+    }
+  ],
+  "forexLeverages": [
+    10,
+    25,
+    50,
+    100,
+    200,
+    500
+  ],
+  "cryptoLeverages": [
+    5,
+    10,
+    20,
+    50,
+    100
+  ]
+}

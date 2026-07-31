@@ -1,0 +1,6 @@
+{
+  "name": "Personal Productivity Ecosystem",
+  "description": "A modular, highly polished personal productivity suite including a Dashboard, Smart Budget Manager with Autocomplete, Countdown Timer, Habit Tracker, and Notes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

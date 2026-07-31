@@ -1,0 +1,28 @@
+{
+  "activeTab": "notes",
+  "habits": [
+    {
+      "id": "h-1",
+      "name": "مطالعه روزانه کتاب",
+      "color": "cyan",
+      "streak": 3,
+      "history": {}
+    },
+    {
+      "id": "h-2",
+      "name": "ورزش و پیاده‌روی",
+      "color": "emerald",
+      "streak": 5,
+      "history": {}
+    },
+    {
+      "id": "h-3",
+      "name": "بودجه‌ریزی مالی",
+      "color": "amber",
+      "streak": 2,
+      "history": {}
+    }
+  ],
+  "dragLocked": true,
+  "calendarType": "shamsi"
+}

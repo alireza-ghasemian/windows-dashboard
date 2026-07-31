@@ -1,0 +1,833 @@
+{
+  "archives": [
+    {
+      "key": "1404-04",
+      "calendar": "shamsi",
+      "year": 1404,
+      "month": 4,
+      "budget": 0,
+      "incomes": [],
+      "expenses": [],
+      "closed": true,
+      "currency": "IRT",
+      "investments": [
+        {
+          "id": "inv-1783706871254-z515",
+          "type": "دلار آمریکا",
+          "amount": 200,
+          "totalPrice": 200,
+          "currency": "USD",
+          "date": "2025-06-22"
+        },
+        {
+          "id": "inv-1783706937462-7k9y",
+          "type": "یورو",
+          "amount": 300,
+          "totalPrice": 300,
+          "currency": "EUR",
+          "date": "2025-07-06"
+        }
+      ]
+    },
+    {
+      "key": "1404-05",
+      "calendar": "shamsi",
+      "year": 1404,
+      "month": 5,
+      "budget": 0,
+      "incomes": [],
+      "expenses": [],
+      "closed": true,
+      "currency": "IRT",
+      "investments": [
+        {
+          "id": "inv-1783707008766-n806",
+          "type": "ربع سکه",
+          "amount": 2,
+          "totalPrice": 80000000,
+          "currency": "IRT",
+          "date": "2025-08-06"
+        }
+      ]
+    },
+    {
+      "key": "1404-06",
+      "calendar": "shamsi",
+      "year": 1404,
+      "month": 6,
+      "budget": 0,
+      "incomes": [],
+      "expenses": [],
+      "closed": true,
+      "currency": "USD",
+      "investments": [
+        {
+          "id": "inv-1783707109733-uz54",
+          "type": "Solana",
+          "amount": 0.172,
+          "totalPrice": 26,
+          "currency": "USD",
+          "date": "2025-09-01"
+        },
+        {
+          "id": "inv-1783707240685-3n0v",
+          "type": "بیت‌کوین (BTC)",
+          "amount": 0.00159228,
+          "totalPrice": 142,
+          "currency": "USD",
+          "date": "2025-09-06"
+        },
+        {
+          "id": "inv-1783707315494-vl69",
+          "type": "اتریوم (ETH)",
+          "amount": 0.00816865,
+          "totalPrice": 15.79,
+          "currency": "USD",
+          "date": "2025-09-11"
+        }
+      ]
+    },
+    {
+      "key": "1404-07",
+      "calendar": "shamsi",
+      "year": 1404,
+      "month": 7,
+      "budget": 0,
+      "incomes": [],
+      "expenses": [],
+      "closed": true,
+      "currency": "IRT",
+      "investments": [
+        {
+          "id": "inv-1783707583374-288v",
+          "type": "صندوق عیار",
+          "amount": 190,
+          "totalPrice": 9120000,
+          "currency": "IRT",
+          "date": "2025-10-07"
+        }
+      ]
+    },
+    {
+      "key": "1404-08",
+      "calendar": "shamsi",
+      "year": 1404,
+      "month": 8,
+      "budget": 0,
+      "incomes": [],
+      "expenses": [],
+      "closed": true,
+      "currency": "IRT",
+      "investments": [
+        {
+          "id": "inv-1783707781564-9ao5",
+          "type": "اختیار خرید صندوق طلا سر رسید دی ماه ۱۴۰۵",
+          "amount": 200,
+          "totalPrice": 15000000,
+          "currency": "IRT",
+          "date": "2025-11-04"
+        },
+        {
+          "id": "inv-1783708109547-oew7",
+          "type": "اتریوم (ETH)",
+          "amount": 0.00361,
+          "totalPrice": 1000000,
+          "currency": "IRT",
+          "date": "2025-11-11"
+        },
+        {
+          "id": "inv-1783708144291-gf7z",
+          "type": "بیت‌کوین (BTC)",
+          "amount": 0.000098,
+          "totalPrice": 1000000,
+          "currency": "IRT",
+          "date": "2025-11-18"
+        },
+        {
+          "id": "inv-1783708227419-706f",
+          "type": "سیلور باکس (آبان تتر)",
+          "amount": 467,
+          "totalPrice": 5000000,
+          "currency": "IRT",
+          "date": "2025-11-20"
+        }
+      ]
+    },
+    {
+      "key": "1405-04",
+      "calendar": "shamsi",
+      "year": 1405,
+      "month": 4,
+      "budget": 4000000,
+      "incomes": [],
+      "expenses": [
+        {
+          "id": "tx-1783706332944-ycwa",
+          "title": "غذای سلف دانشگاه",
+          "amount": 52000,
+          "type": "expense",
+          "date": "2026-06-24",
+          "description": ""
+        },
+        {
+          "id": "tx-1783706363352-nskz",
+          "title": "قسط  اسنپ",
+          "amount": 505000,
+          "type": "expense",
+          "date": "2026-06-24",
+          "description": ""
+        },
+        {
+          "id": "tx-1783706383488-gkij",
+          "title": "اینترنت و شارژ",
+          "amount": 115500,
+          "type": "expense",
+          "date": "2026-06-29",
+          "description": ""
+        },
+        {
+          "id": "tx-1783706406647-ksjn",
+          "title": "خرید سوپرمارکت",
+          "amount": 169000,
+          "type": "expense",
+          "date": "2026-06-30",
+          "description": ""
+        },
+        {
+          "id": "tx-1783706433600-rymc",
+          "title": "غذای سلف دانشگاه",
+          "amount": 52000,
+          "type": "expense",
+          "date": "2026-07-01",
+          "description": ""
+        },
+        {
+          "id": "tx-1783706470599-qsi5",
+          "title": "اینترنت و شارژ",
+          "amount": 115500,
+          "type": "expense",
+          "date": "2026-07-05",
+          "description": ""
+        },
+        {
+          "id": "tx-1783706486679-jswx",
+          "title": "غذای سلف دانشگاه",
+          "amount": 65000,
+          "type": "expense",
+          "date": "2026-07-08",
+          "description": ""
+        },
+        {
+          "id": "tx-1783959640709-czi2",
+          "title": "اینترنت و شارژ",
+          "amount": 115500,
+          "type": "expense",
+          "date": "2026-07-12",
+          "description": ""
+        },
+        {
+          "id": "tx-1783959725994-85bh",
+          "title": "ظرف یکبار مصرف",
+          "amount": 10000,
+          "type": "expense",
+          "date": "2026-07-15",
+          "description": ""
+        },
+        {
+          "id": "tx-1784128549326-wqzs",
+          "title": "آرایشگاه",
+          "amount": 300000,
+          "type": "expense",
+          "date": "2026-07-15",
+          "description": ""
+        },
+        {
+          "id": "tx-1784716491418-zgck",
+          "title": "خرید روزانه",
+          "amount": 500000,
+          "type": "expense",
+          "date": "2026-07-22",
+          "description": ""
+        }
+      ],
+      "closed": true,
+      "currency": "IRT",
+      "investments": []
+    }
+  ],
+  "monthsData": {
+    "1405-04": {
+      "key": "1405-04",
+      "calendar": "shamsi",
+      "year": 1405,
+      "month": 4,
+      "budget": 4000000,
+      "incomes": [],
+      "expenses": [
+        {
+          "id": "tx-1783706332944-ycwa",
+          "title": "غذای سلف دانشگاه",
+          "amount": 52000,
+          "type": "expense",
+          "date": "2026-06-24",
+          "description": ""
+        },
+        {
+          "id": "tx-1783706363352-nskz",
+          "title": "قسط  اسنپ",
+          "amount": 505000,
+          "type": "expense",
+          "date": "2026-06-24",
+          "description": ""
+        },
+        {
+          "id": "tx-1783706383488-gkij",
+          "title": "اینترنت و شارژ",
+          "amount": 115500,
+          "type": "expense",
+          "date": "2026-06-29",
+          "description": ""
+        },
+        {
+          "id": "tx-1783706406647-ksjn",
+          "title": "خرید سوپرمارکت",
+          "amount": 169000,
+          "type": "expense",
+          "date": "2026-06-30",
+          "description": ""
+        },
+        {
+          "id": "tx-1783706433600-rymc",
+          "title": "غذای سلف دانشگاه",
+          "amount": 52000,
+          "type": "expense",
+          "date": "2026-07-01",
+          "description": ""
+        },
+        {
+          "id": "tx-1783706470599-qsi5",
+          "title": "اینترنت و شارژ",
+          "amount": 115500,
+          "type": "expense",
+          "date": "2026-07-05",
+          "description": ""
+        },
+        {
+          "id": "tx-1783706486679-jswx",
+          "title": "غذای سلف دانشگاه",
+          "amount": 65000,
+          "type": "expense",
+          "date": "2026-07-08",
+          "description": ""
+        },
+        {
+          "id": "tx-1783959640709-czi2",
+          "title": "اینترنت و شارژ",
+          "amount": 115500,
+          "type": "expense",
+          "date": "2026-07-12",
+          "description": ""
+        },
+        {
+          "id": "tx-1783959725994-85bh",
+          "title": "ظرف یکبار مصرف",
+          "amount": 10000,
+          "type": "expense",
+          "date": "2026-07-15",
+          "description": ""
+        },
+        {
+          "id": "tx-1784128549326-wqzs",
+          "title": "آرایشگاه",
+          "amount": 300000,
+          "type": "expense",
+          "date": "2026-07-15",
+          "description": ""
+        },
+        {
+          "id": "tx-1784716491418-zgck",
+          "title": "خرید روزانه",
+          "amount": 500000,
+          "type": "expense",
+          "date": "2026-07-22",
+          "description": ""
+        }
+      ],
+      "closed": true,
+      "currency": "IRT",
+      "investments": []
+    },
+    "1404-04": {
+      "key": "1404-04",
+      "calendar": "shamsi",
+      "year": 1404,
+      "month": 4,
+      "budget": 0,
+      "incomes": [],
+      "expenses": [],
+      "closed": true,
+      "currency": "IRT",
+      "investments": [
+        {
+          "id": "inv-1783706871254-z515",
+          "type": "دلار آمریکا",
+          "amount": 200,
+          "totalPrice": 200,
+          "currency": "USD",
+          "date": "2025-06-22"
+        },
+        {
+          "id": "inv-1783706937462-7k9y",
+          "type": "یورو",
+          "amount": 300,
+          "totalPrice": 300,
+          "currency": "EUR",
+          "date": "2025-07-06"
+        }
+      ]
+    },
+    "1404-05": {
+      "key": "1404-05",
+      "calendar": "shamsi",
+      "year": 1404,
+      "month": 5,
+      "budget": 0,
+      "incomes": [],
+      "expenses": [],
+      "closed": true,
+      "currency": "IRT",
+      "investments": [
+        {
+          "id": "inv-1783707008766-n806",
+          "type": "ربع سکه",
+          "amount": 2,
+          "totalPrice": 80000000,
+          "currency": "IRT",
+          "date": "2025-08-06"
+        }
+      ]
+    },
+    "1404-06": {
+      "key": "1404-06",
+      "calendar": "shamsi",
+      "year": 1404,
+      "month": 6,
+      "budget": 0,
+      "incomes": [],
+      "expenses": [],
+      "closed": true,
+      "currency": "USD",
+      "investments": [
+        {
+          "id": "inv-1783707109733-uz54",
+          "type": "Solana",
+          "amount": 0.172,
+          "totalPrice": 26,
+          "currency": "USD",
+          "date": "2025-09-01"
+        },
+        {
+          "id": "inv-1783707240685-3n0v",
+          "type": "بیت‌کوین (BTC)",
+          "amount": 0.00159228,
+          "totalPrice": 142,
+          "currency": "USD",
+          "date": "2025-09-06"
+        },
+        {
+          "id": "inv-1783707315494-vl69",
+          "type": "اتریوم (ETH)",
+          "amount": 0.00816865,
+          "totalPrice": 15.79,
+          "currency": "USD",
+          "date": "2025-09-11"
+        }
+      ]
+    },
+    "1404-07": {
+      "key": "1404-07",
+      "calendar": "shamsi",
+      "year": 1404,
+      "month": 7,
+      "budget": 0,
+      "incomes": [],
+      "expenses": [],
+      "closed": true,
+      "currency": "IRT",
+      "investments": [
+        {
+          "id": "inv-1783707583374-288v",
+          "type": "صندوق عیار",
+          "amount": 190,
+          "totalPrice": 9120000,
+          "currency": "IRT",
+          "date": "2025-10-07"
+        }
+      ]
+    },
+    "1404-08": {
+      "key": "1404-08",
+      "calendar": "shamsi",
+      "year": 1404,
+      "month": 8,
+      "budget": 0,
+      "incomes": [],
+      "expenses": [],
+      "closed": true,
+      "currency": "IRT",
+      "investments": [
+        {
+          "id": "inv-1783707781564-9ao5",
+          "type": "اختیار خرید صندوق طلا سر رسید دی ماه ۱۴۰۵",
+          "amount": 200,
+          "totalPrice": 15000000,
+          "currency": "IRT",
+          "date": "2025-11-04"
+        },
+        {
+          "id": "inv-1783708109547-oew7",
+          "type": "اتریوم (ETH)",
+          "amount": 0.00361,
+          "totalPrice": 1000000,
+          "currency": "IRT",
+          "date": "2025-11-11"
+        },
+        {
+          "id": "inv-1783708144291-gf7z",
+          "type": "بیت‌کوین (BTC)",
+          "amount": 0.000098,
+          "totalPrice": 1000000,
+          "currency": "IRT",
+          "date": "2025-11-18"
+        },
+        {
+          "id": "inv-1783708227419-706f",
+          "type": "سیلور باکس (آبان تتر)",
+          "amount": 467,
+          "totalPrice": 5000000,
+          "currency": "IRT",
+          "date": "2025-11-20"
+        }
+      ]
+    },
+    "1404-09": {
+      "key": "1404-09",
+      "calendar": "shamsi",
+      "year": 1404,
+      "month": 9,
+      "budget": 0,
+      "incomes": [],
+      "expenses": [],
+      "closed": false,
+      "currency": "IRT"
+    },
+    "1405-05": {
+      "key": "1405-05",
+      "calendar": "shamsi",
+      "year": 1405,
+      "month": 5,
+      "budget": 3490000,
+      "incomes": [],
+      "expenses": [
+        {
+          "id": "tx-1784717197684-ynu9",
+          "title": "قسط  اسنپ",
+          "amount": 505000,
+          "type": "expense",
+          "date": "2026-07-22",
+          "description": ""
+        },
+        {
+          "id": "tx-1784913181592-8r74",
+          "title": "اینترنت و شارژ",
+          "amount": 115500,
+          "type": "expense",
+          "date": "2026-07-24",
+          "description": ""
+        }
+      ],
+      "closed": false,
+      "currency": "IRT",
+      "investments": [
+        {
+          "id": "inv-1785308491103-6cmn",
+          "type": "تتر گلد",
+          "amount": 0.000756,
+          "totalPrice": 510000,
+          "currency": "IRT",
+          "date": "2026-07-29"
+        }
+      ]
+    }
+  },
+  "currentMonthKey": "1405-05",
+  "suggestions": [
+    {
+      "id": "sug-1785308493078",
+      "text": "تتر گلد",
+      "type": "investment",
+      "useCount": 1,
+      "lastUsedAt": "2026-07-29T07:01:33.078Z",
+      "price": 4065.5,
+      "priceCurrency": "USD"
+    },
+    {
+      "id": "sug-1784129275804",
+      "text": "ظرف یکبار مصرف",
+      "type": "expense",
+      "useCount": 1,
+      "lastUsedAt": "2026-07-15T15:27:55.804Z"
+    },
+    {
+      "id": "sug-1784128550837",
+      "text": "آرایشگاه",
+      "type": "expense",
+      "useCount": 1,
+      "lastUsedAt": "2026-07-15T15:15:50.837Z"
+    },
+    {
+      "id": "sug-1783708229458",
+      "text": "سیلور باکس (آبان تتر)",
+      "type": "investment",
+      "useCount": 1,
+      "lastUsedAt": "2026-07-10T18:30:29.458Z",
+      "price": 8990,
+      "priceCurrency": "IRT"
+    },
+    {
+      "id": "sug-1783707782988",
+      "text": "اختیار خرید صندوق طلا سر رسید دی ماه ۱۴۰۵",
+      "type": "investment",
+      "useCount": 1,
+      "lastUsedAt": "2026-07-10T18:23:02.988Z",
+      "price": 62000,
+      "priceCurrency": "IRT"
+    },
+    {
+      "id": "sug-1783707584477",
+      "text": "صندوق عیار",
+      "type": "investment",
+      "useCount": 2,
+      "lastUsedAt": "2026-07-10T18:19:58.836Z",
+      "price": 51800,
+      "priceCurrency": "IRT"
+    },
+    {
+      "id": "sug-1783707316845",
+      "text": "اتریوم (ETH)",
+      "type": "investment",
+      "useCount": 2,
+      "lastUsedAt": "2026-07-10T18:28:29.547Z",
+      "price": 1831,
+      "priceCurrency": "USD"
+    },
+    {
+      "id": "sug-1783707111709",
+      "text": "Solana",
+      "type": "investment",
+      "useCount": 2,
+      "lastUsedAt": "2026-07-10T18:12:32.822Z",
+      "price": 74.66,
+      "priceCurrency": "USD"
+    },
+    {
+      "id": "sug-1783706707056",
+      "text": "ربع سکه",
+      "type": "investment",
+      "useCount": 2,
+      "lastUsedAt": "2026-07-10T18:10:08.766Z",
+      "price": 53670000,
+      "priceCurrency": "IRT"
+    },
+    {
+      "id": "sug-1783706365559",
+      "text": "قسط  اسنپ",
+      "type": "expense",
+      "useCount": 2,
+      "lastUsedAt": "2026-07-22T10:46:37.684Z"
+    },
+    {
+      "id": "sug-1783706334327",
+      "text": "غذای سلف دانشگاه",
+      "type": "expense",
+      "useCount": 3,
+      "lastUsedAt": "2026-07-10T18:01:26.680Z"
+    },
+    {
+      "id": "exp-0",
+      "text": "اجاره خانه",
+      "type": "expense",
+      "useCount": 5,
+      "lastUsedAt": "2026-07-10T17:23:01.616Z"
+    },
+    {
+      "id": "exp-1",
+      "text": "خرید سوپرمارکت",
+      "type": "expense",
+      "useCount": 5,
+      "lastUsedAt": "2026-07-10T18:00:06.647Z"
+    },
+    {
+      "id": "exp-2",
+      "text": "بنزین خودرو",
+      "type": "expense",
+      "useCount": 3,
+      "lastUsedAt": "2026-07-10T17:23:01.616Z"
+    },
+    {
+      "id": "exp-3",
+      "text": "کافه و رستوران",
+      "type": "expense",
+      "useCount": 2,
+      "lastUsedAt": "2026-07-10T17:23:01.616Z"
+    },
+    {
+      "id": "exp-4",
+      "text": "قبوض خدماتی",
+      "type": "expense",
+      "useCount": 1,
+      "lastUsedAt": "2026-07-10T17:23:01.616Z"
+    },
+    {
+      "id": "exp-5",
+      "text": "تاکسی و حمل‌ونقل",
+      "type": "expense",
+      "useCount": 1,
+      "lastUsedAt": "2026-07-10T17:23:01.616Z"
+    },
+    {
+      "id": "exp-6",
+      "text": "بیمه و درمان",
+      "type": "expense",
+      "useCount": 1,
+      "lastUsedAt": "2026-07-10T17:23:01.616Z"
+    },
+    {
+      "id": "exp-7",
+      "text": "خرید لباس",
+      "type": "expense",
+      "useCount": 1,
+      "lastUsedAt": "2026-07-10T17:23:01.616Z"
+    },
+    {
+      "id": "exp-8",
+      "text": "اینترنت و شارژ",
+      "type": "expense",
+      "useCount": 5,
+      "lastUsedAt": "2026-07-24T17:13:01.592Z"
+    },
+    {
+      "id": "inc-0",
+      "text": "حقوق ماهیانه",
+      "type": "income",
+      "useCount": 5,
+      "lastUsedAt": "2026-07-10T17:23:01.616Z"
+    },
+    {
+      "id": "inc-1",
+      "text": "پروژه فری‌لنس",
+      "type": "income",
+      "useCount": 4,
+      "lastUsedAt": "2026-07-10T17:23:01.616Z"
+    },
+    {
+      "id": "inc-2",
+      "text": "سود سرمایه‌گذاری",
+      "type": "income",
+      "useCount": 3,
+      "lastUsedAt": "2026-07-10T17:23:01.616Z"
+    },
+    {
+      "id": "inc-3",
+      "text": "یارانه معیشتی",
+      "type": "income",
+      "useCount": 2,
+      "lastUsedAt": "2026-07-10T17:23:01.616Z"
+    },
+    {
+      "id": "inc-4",
+      "text": "فروش وسایل",
+      "type": "income",
+      "useCount": 1,
+      "lastUsedAt": "2026-07-10T17:23:01.616Z"
+    },
+    {
+      "id": "inc-5",
+      "text": "جایزه و هدیه",
+      "type": "income",
+      "useCount": 1,
+      "lastUsedAt": "2026-07-10T17:23:01.616Z"
+    },
+    {
+      "id": "inv-sug-0",
+      "text": "طلا ۱۸ عیار",
+      "type": "investment",
+      "useCount": 5,
+      "lastUsedAt": "2026-07-10T17:23:01.617Z"
+    },
+    {
+      "id": "inv-sug-1",
+      "text": "سکه امامی",
+      "type": "investment",
+      "useCount": 4,
+      "lastUsedAt": "2026-07-10T17:23:01.617Z"
+    },
+    {
+      "id": "inv-sug-2",
+      "text": "دلار آمریکا",
+      "type": "investment",
+      "useCount": 4,
+      "lastUsedAt": "2026-07-10T18:07:51.255Z",
+      "price": 180000,
+      "priceCurrency": "IRT"
+    },
+    {
+      "id": "inv-sug-3",
+      "text": "یورو",
+      "type": "investment",
+      "useCount": 3,
+      "lastUsedAt": "2026-07-10T18:08:57.462Z",
+      "price": 210000,
+      "priceCurrency": "IRT"
+    },
+    {
+      "id": "inv-sug-4",
+      "text": "تتر (USDT)",
+      "type": "investment",
+      "useCount": 1,
+      "lastUsedAt": "2026-07-10T17:23:01.617Z",
+      "price": 180000,
+      "priceCurrency": "IRT"
+    },
+    {
+      "id": "inv-sug-5",
+      "text": "بیت‌کوین (BTC)",
+      "type": "investment",
+      "useCount": 3,
+      "lastUsedAt": "2026-07-10T18:29:04.291Z",
+      "price": 63300,
+      "priceCurrency": "USD"
+    },
+    {
+      "id": "inv-sug-6",
+      "text": "سهام بورس",
+      "type": "investment",
+      "useCount": 1,
+      "lastUsedAt": "2026-07-10T17:23:01.617Z"
+    },
+    {
+      "id": "inv-sug-7",
+      "text": "زمین و ملک",
+      "type": "investment",
+      "useCount": 1,
+      "lastUsedAt": "2026-07-10T17:23:01.617Z"
+    },
+    {
+      "id": "inv-sug-8",
+      "text": "صندوق درآمد ثابت",
+      "type": "investment",
+      "useCount": 1,
+      "lastUsedAt": "2026-07-10T17:23:01.617Z"
+    }
+  ]
+}
