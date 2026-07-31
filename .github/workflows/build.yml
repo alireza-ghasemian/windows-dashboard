@@ -27,7 +27,7 @@ jobs:
         run: npm run build
 
       - name: Build Electron App for Linux
-        run: npx electron-builder --linux
+        run: npx electron-builder --linux --publish never
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
