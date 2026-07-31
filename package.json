@@ -32,7 +32,15 @@
     "win": {
       "target": "nsis",
       "icon": "icon.ico"
-    }
+    },
+    "linux": {
+  "target": [
+    "AppImage",
+    "deb"
+  ],
+  "category": "Utility",
+  "icon": "icons"
+}
   },
   "dependencies": {
     "express": "^4.21.2"
