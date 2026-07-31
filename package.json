@@ -20,10 +20,11 @@
     "appId": "com.productivity.ecosystem",
     "productName": "Personal Productivity Ecosystem",
     "directories": {
-      "output": "dist-desktop"
+      "output": "dist-electron"
     },
     "files": [
       "dist/**/*",
+      "dist-electron/**/*",
       "electron-main.js",
       "package.json",
       "icon.png",
