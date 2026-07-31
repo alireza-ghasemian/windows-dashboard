@@ -1,7 +1,10 @@
 {
   "name": "react-example",
   "description": "My Electron Dashboard App",
-  "author": "Alireza",
+  "author": {
+    "name": "Alireza Ghasemian",
+    "email": "g.alireza.dev@gmail.com"
+  },
   "private": true,
   "version": "1.0.0",
   "type": "module",
